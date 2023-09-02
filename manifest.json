@@ -1,0 +1,11 @@
+{
+    "name": "TerpTales",
+    "version": "1.0.0",
+    "description": "This is an extension to give summaries of PlanetTerp course reviews.",
+    "manifest_version": 3,
+    "author": "Brayden Ngo, Nicholas Zhou",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "TerpTales"
+    }
+}
